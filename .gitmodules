@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cohorts"]
+	path = cohorts
+	url = https://github.com/peerchristensen/cohorts
+	shallow = true
+	registered = true
+[submodule "modelimpact"]
+	path = modelimpact
+	url = https://github.com/peerchristensen/modelimpact
+	shallow = true
+	registered = true

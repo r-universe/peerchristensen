@@ -1,10 +1,10 @@
 [
   {
-    "package": "modelimpact",
+    "package": "cohorts",
     "oncran": true
   },
   {
-    "package": "cohorts",
+    "package": "modelimpact",
     "oncran": true
   }
 ]
